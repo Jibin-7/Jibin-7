@@ -1,79 +1,44 @@
-⚡ Hi, I'm Jibin Saju Joseph 
+<h1 align="center">Hi there, I'm Jibin Saju Joseph 👋</h1>
+<h3 align="center">Software & Data Engineering Student | Crafting Scalable Architecture & Machine Learning Models</h3>
 
-Software & Data Engineering Student 
+<p align="center">
+  <a href="https://linkedin.com/in/jibin-saju-joseph"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <a href="mailto:jibinsjv@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a>
+</p>
 
 ---
 
-**"Bridging the gap between scalable full-stack architecture and machine learning."** 
+### 👨‍💻 About Me
 
-Welcome to my GitHub! I engineer secure, high-performance tech solutions that drive intelligent data utilization. Whether it's training a Random Forest classifier or optimizing rendering pipelines in Unity, I thrive at the intersection of application development and data science.
+* [cite_start]🎓 Pursuing a **B.E. in Computer Engineering (Honours in Data Science)** at St. Francis Institute of Technology (SFIT)[cite: 8, 33].
+* [cite_start]🏆 **Grand Finalist** at the 2024 Smart India Hackathon (SIH) for building a 3D tactical visualization tool[cite: 35, 38].
+* [cite_start]☁️ Passionate about **Applied Machine Learning**, **Cloud Computing (AWS)**, and **Linux Server Administration**[cite: 41, 42].
+* [cite_start]🤝 Actively leading community service initiatives as a **National Service Scheme (NSS) Volunteer**[cite: 44, 47].
+* [cite_start]🎯 Currently seeking opportunities to engineer secure, high-performance tech solutions[cite: 10].
 
-## 🔭 About Me
+---
 
-* I am a Computer Engineering & Data Science Honours student (9.17 CGPA) at St. Francis Institute of Technology (SFIT).
+### 🛠️ Tech Stack & Tools
 
+[cite_start]**Languages:** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C%23](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) [cite: 27]
 
-* I specialize in architecting AI-powered platforms and predictive models.
+[cite_start]**AI & Data Science:** ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) *(spaCy, Random Forest, Bayesian Inference)* [cite: 28]
 
+[cite_start]**Web & Cloud:** ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) [cite: 28, 29]
 
-* I have a strong foundation in AWS cloud infrastructure, Linux server administration, and pipeline automation.
+---
 
+### 🚀 Featured Projects
 
-* I was a Grand Finalist at the 2024 Smart India Hackathon (SIH), delivering a strategic 3D asset optimization tool for national security operations.
+* [cite_start]**[InternTrack](https://github.com/Jibin-7/InternTrack)**: An AI-driven placement analytics platform automating resume parsing and real-time job aggregation using React, Flask, MongoDB, and spaCy[cite: 12, 14].
+* [cite_start]**[IntelliBudget](https://github.com/Jibin-7/IntelliBudget)**: A full-stack personal finance ecosystem leveraging Bayesian inference and PGMs to forecast long-term savings[cite: 17, 20].
+* [cite_start]**[Deadlock Protocol](https://github.com/Jibin-7/Deadlock-Protocol)**: A high-performance 3D FPS game built in Unity 6, featuring sophisticated enemy AI and strict OOP combat systems[cite: 22, 24, 25].
 
+---
 
-* I actively volunteer with the National Service Scheme (NSS), leading social awareness campaigns and community service initiatives.
+### 📊 GitHub Stats
 
-
-
-## 💻 Tech Arsenal
-
-| Category | Technologies |
-| --- | --- |
-| **Languages** | Python, Java, C, C#, JavaScript, HTML/CSS 
-
- |
-| **Web & AI** | React.js, Flask, Django, REST APIs, spaCy, PyTorch, Random Forest, Bayesian Inference 
-
- |
-| **Cloud & Architecture** | AWS (EC2, S3, IAM, VPC), Git, GitHub, Vercel, Linux (Ubuntu) 
-
- |
-| **Networking** | TCP/IP, DNS, HTTP/S, SSH, Firewalls, VPC Subnetting 
-
- |
-| **Databases** | MongoDB Atlas, SQLite 
-
- |
-
-## 🚀 Featured Engineering Projects
-
-* 
-**InternTrack:** An AI-driven placement analytics platform that automates resume parsing and real-time job aggregation to accelerate university workflows. Powered by an automated ETL pipeline, WebSockets, and a custom spaCy NLP parser.
-
-
-* 
-**IntelliBudget:** A full-stack personal finance ecosystem that integrates Bayesian inference and Probabilistic Graphical Models (PGMs) to forecast long-term savings and proactively identify overspending risks.
-
-
-* 
-**Deadlock Protocol:** A high-performance 3D first-person shooter game built in Unity 6, featuring sophisticated enemy AI and strict object-oriented combat systems.
-
-
-* 
-**Project 3dify (SIH):** A tactical software solution engineered to transform 2D blueprints into interactive 3D environments for military visualization.
-
-
-
-## 📫 Let's Connect
-
-* 
-**Email:** jibinsjv@gmail.com 
-
-
-* 
-**LinkedIn:** [linkedin.com/in/jibin-saju-joseph](https://www.google.com/search?q=https://linkedin.com/in/jibin-saju-joseph) 
-
-
-* 
-**GitHub:** [github.com/Jibin-7](https://www.google.com/search?q=https://github.com/Jibin-7)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jibin-7&show_icons=true&theme=radical&hide_border=true" alt="Jibin's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jibin-7&theme=radical&hide_border=true" alt="Jibin's GitHub Streak" width="48%" />
+</p>
