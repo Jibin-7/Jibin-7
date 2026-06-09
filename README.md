@@ -39,7 +39,7 @@
 ## Github Stats:
 <p align="center">
     <a href="https://github.com/Jibin-7">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jibin-7&show_icons=true&theme=onedark&hide_border=true"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jibin-7&show_icons=true&theme=onedark&hide_border=true&v=1"/>
         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jibin-7&langs_count=8&layout=compact&theme=onedark&include_all_commits=true&count_private=true&hide_border=true" />
     </a>
 </p>
