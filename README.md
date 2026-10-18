@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=860&height=80&lines=Jibin+Saju+Joseph;Computer+Engineering+%7C+Data+Science;Full-Stack+Development+%7C+AI%2FML" alt="Jibin Saju Joseph | Computer Engineering and Data Science" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=32&duration=3000&pause=1100&color=79C0FF&center=true&vCenter=true&width=900&height=90&lines=Jibin+Saju+Joseph;Computer+Engineering+%7C+Data+Science;Full-Stack+Development+%7C+AI%2FML" alt="Jibin Saju Joseph | Computer Engineering and Data Science" />
 
-<p><strong><code>Computer Engineering</code> · <code>Honours in Data Science</code></strong></p>
+<p><strong>Computer Engineering</strong> &nbsp; | &nbsp; Honours in Data Science</p>
 
 <p>
   <a href="https://linkedin.com/in/jibin-saju-joseph">LinkedIn</a>
@@ -12,8 +12,8 @@
   <a href="https://github.com/Jibin-7?tab=repositories">Projects and Repositories</a>
 </p>
 
-<img src="https://img.shields.io/badge/SIH_2024-Grand_Finalist-1f6feb?style=flat-square" alt="Smart India Hackathon 2024 Grand Finalist" />
-<img src="https://img.shields.io/badge/CGPA-9.24%2F10-238636?style=flat-square" alt="CGPA 9.24 out of 10" />
+<img src="https://img.shields.io/badge/SIH_2024-Grand_Finalist-1f6feb?style=for-the-badge" alt="Smart India Hackathon 2024 Grand Finalist" />
+<img src="https://img.shields.io/badge/CGPA-9.24%2F10-238636?style=for-the-badge" alt="CGPA 9.24 out of 10" />
 
 </div>
 
@@ -117,7 +117,7 @@ St. Francis Institute of Technology (SFIT), University of Mumbai
 - Azure Custom Vision: Machine Learning Model, Microsoft Learn Student Ambassador
 - Generative AI Model Development, NxtWave
 
-## GitHub Statistics
+## GitHub at a Glance
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Jibin-7&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&rank_icon=github" alt="GitHub statistics" />
