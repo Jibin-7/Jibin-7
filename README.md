@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=820&height=70&lines=Jibin+Saju+Joseph;Computer+Engineering+%7C+Data+Science" alt="Jibin Saju Joseph | Computer Engineering and Data Science" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=860&height=80&lines=Jibin+Saju+Joseph;Computer+Engineering+%7C+Data+Science;Full-Stack+Development+%7C+AI%2FML" alt="Jibin Saju Joseph | Computer Engineering and Data Science" />
 
-<p><strong>Computer Engineering Student · Honours in Data Science</strong></p>
+<p><strong><code>Computer Engineering</code> · <code>Honours in Data Science</code></strong></p>
 
 <p>
   <a href="https://linkedin.com/in/jibin-saju-joseph">LinkedIn</a>
@@ -23,7 +23,7 @@
 
 Computer Engineering student at St. Francis Institute of Technology, University of Mumbai, pursuing an Honours track in Data Science. Interested in software development, practical problem-solving, and building applications through hands-on experience.
 
-## Technology Stack
+## `stack --overview`
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,python,c,js,html,css,react,nextjs,nodejs,flask,django,mongodb,mysql,git,github&perline=8" alt="Technology icons for skills listed below" />
@@ -38,7 +38,7 @@ Computer Engineering student at St. Francis Institute of Technology, University 
 | **Tools** | Git, GitHub, Vercel, Cloudinary, NextAuth.js, OAuth 2.0 |
 | **AI / ML** | Machine Learning Fundamentals, Natural Language Processing (NLP) |
 
-## Experience
+## `experience --professional`
 
 ### Web Development Intern · Zidio Development
 *June 2026 – July 2026*
@@ -50,7 +50,7 @@ Computer Engineering student at St. Francis Institute of Technology, University 
 - Implemented feedback ingestion, search, pagination, and dashboards for customer feedback analysis and trend exploration.
 - Integrated Google Gemini AI for sentiment classification, theme clustering, trend detection, Voice-of-Customer reports, and evidence-grounded question answering over retrieved feedback.
 
-## Selected Projects
+## `projects --featured`
 
 <table>
 <tr>
@@ -103,25 +103,25 @@ Hourly air quality and environmental data for Mumbai from 2023 to 2025, comprisi
 </tr>
 </table>
 
-## Achievements
+## `achievements --highlights`
 
 - **Smart India Hackathon 2024 Grand Finalist:** Built 3Dify, which transforms 2D building blueprints into interactive 3D environments for spatial assessment and tactical planning.
 - **National Service Scheme Volunteer and Group Leader:** Completed two years of service, participated in two camps, and led group activities during the second camp.
 
-## Education
+## `education --background`
 
 **B.E. in Computer Engineering, Honours in Data Science**  
 St. Francis Institute of Technology (SFIT), University of Mumbai  
 2023 – 2027 · **CGPA: 9.24 / 10.0**
 
-## Certifications
+## `certifications --completed`
 
 - Claude 101, Anthropic
 - PromptWars Virtual, Google for Developers
 - Azure Custom Vision: Machine Learning Model, Microsoft Learn Student Ambassador
 - Generative AI Model Development, NxtWave
 
-## GitHub Statistics
+## `github --stats`
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Jibin-7&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&rank_icon=github" alt="GitHub statistics" />
