@@ -4,7 +4,7 @@
 
 **Computer Engineering | Honours in Data Science**
 
-[LinkedIn](https://linkedin.com/in/jibin-saju-joseph) · [Email](mailto:jibinsjv@gmail.com) · [Repositories](https://github.com/Jibin-7?tab=repositories)
+[LinkedIn](https://linkedin.com/in/jibin-saju-joseph) · [Email](mailto:jibinsjv@gmail.com) · [GitHub Repositories](https://github.com/Jibin-7?tab=repositories)
 
 </div>
 
@@ -42,6 +42,10 @@ Computer Engineering student at St. Francis Institute of Technology, University 
 
 ## Projects
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### Yapster
 **Real-Time Social Communication Platform**
 
@@ -49,6 +53,9 @@ Computer Engineering student at St. Francis Institute of Technology, University 
 
 - Built a mobile-first messaging progressive web application with real-time message delivery using Pusher.
 - Implemented Google OAuth authentication and Cloudinary-based media uploads and delivery.
+
+</td>
+<td width="50%" valign="top">
 
 ### [InternTrack](https://github.com/Jibin-7/InternTrack)
 **AI Placement Analytics Platform**
@@ -58,6 +65,11 @@ Computer Engineering student at St. Francis Institute of Technology, University 
 - Built a placement analytics platform combining resume parsing, skill extraction, personalized career guidance, and job listings through the Adzuna API.
 - Integrated Random Forest-based placement estimates and real-time dashboard updates using WebSockets.
 
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### [IntelliBudget](https://github.com/Jibin-7/IntelliBudget)
 **AI-Powered Budget Planner**
 
@@ -66,7 +78,8 @@ Computer Engineering student at St. Francis Institute of Technology, University 
 - Developed a personal finance application for expense tracking, budget management, and savings planning.
 - Applied Bayesian inference to forecast savings and identify potential overspending risks.
 
-## Publication
+</td>
+<td width="50%" valign="top">
 
 ### Mumbai Multi Source Geospatial Air Quality Dataset
 
@@ -75,6 +88,10 @@ Computer Engineering student at St. Francis Institute of Technology, University 
 Hourly air quality and environmental data for Mumbai from 2023 to 2025, comprising **657,600 records**, **25 station IDs**, and **59 features**.
 
 [View dataset](https://www.kaggle.com/datasets/jibin07/mumbai-multi-source-geospatial-air-quality-dataset) · [DOI](https://doi.org/10.34740/KAGGLE/DSV/20263979)
+
+</td>
+</tr>
+</table>
 
 ## Achievements
 
@@ -99,7 +116,7 @@ St. Francis Institute of Technology (SFIT), University of Mumbai
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jibin-7&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="GitHub statistics" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jibin-7&layout=compact&hide_border=true&theme=github_dark" alt="Most-used languages on GitHub" />
-  <br/>
+  <br />
   <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jibin-7&theme=github-compact&hide_border=true" alt="GitHub contribution activity graph" />
 </div>
 
