@@ -52,7 +52,7 @@ Computer Engineering student at St. Francis Institute of Technology, University 
 <tr>
 <td width="50%" valign="top">
 
-### Yapster
+### [Yapster](https://github.com/Jibin-7/Yapster)
 **Real-Time Social Communication Platform**
 
 <sub>Next.js · React · Node.js · MongoDB · Pusher · NextAuth.js · Tailwind CSS</sub>
