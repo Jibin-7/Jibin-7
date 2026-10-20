@@ -1,137 +1,167 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=32&duration=3000&pause=1100&color=79C0FF&center=true&vCenter=true&width=900&height=90&lines=Jibin+Saju+Joseph;Computer+Engineering+%7C+Data+Science;Full-Stack+Development+%7C+AI%2FML" alt="Jibin Saju Joseph | Computer Engineering and Data Science" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=30&duration=3200&pause=1000&color=79C0FF&center=true&vCenter=true&width=820&height=70&lines=Jibin+Saju+Joseph;Building+useful+software;Full-Stack+%C2%B7+AI%2FML+%C2%B7+Data+Science" alt="Jibin Saju Joseph — Full-Stack Development, AI/ML and Data Science" />
 
-<p><strong>Computer Engineering</strong> &nbsp; | &nbsp; Honours in Data Science</p>
+<p><strong>Computer Engineering @ SFIT</strong> · Honours in Data Science</p>
 
 <p>
-  <a href="https://linkedin.com/in/jibin-saju-joseph">LinkedIn</a>
-  &nbsp; · &nbsp;
+  <a href="https://jibin7-portfolio.vercel.app/">Portfolio</a> &nbsp; · &nbsp;
+  <a href="https://linkedin.com/in/jibin-saju-joseph">LinkedIn</a> &nbsp; · &nbsp;
   <a href="mailto:jibinsjv@gmail.com">Email</a>
-  &nbsp; · &nbsp;
-  <a href="https://github.com/Jibin-7?tab=repositories">Projects and Repositories</a>
 </p>
 
-<img src="https://img.shields.io/badge/SIH_2024-Grand_Finalist-1f6feb?style=for-the-badge" alt="Smart India Hackathon 2024 Grand Finalist" />
-<img src="https://img.shields.io/badge/CGPA-9.24%2F10-238636?style=for-the-badge" alt="CGPA 9.24 out of 10" />
+<img src="https://img.shields.io/badge/CGPA-9.24%2F10-79C0FF?style=flat-square&labelColor=161B22" alt="CGPA 9.24 out of 10" />
+<img src="https://img.shields.io/badge/Smart_India_Hackathon-2024_Finalist-79C0FF?style=flat-square&labelColor=161B22" alt="Smart India Hackathon 2024 Grand Finalist" />
 
 </div>
 
 ---
 
-## Profile
+## About
 
-Computer Engineering student at St. Francis Institute of Technology, University of Mumbai, pursuing an Honours track in Data Science. Interested in software development, practical problem-solving, and building applications through hands-on experience.
+I'm a Computer Engineering student at St. Francis Institute of Technology, University of Mumbai, interested in **full-stack engineering, applied AI, and data-driven products**. I like turning practical problems into useful applications, from responsive interfaces and backend APIs to data processing and intelligent features.
 
-## Technical Skills
+Currently exploring ways to build software that is useful, maintainable, and thoughtfully designed.
 
-| Area | Skills |
+## What I Work With
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,c,js,react,nextjs,nodejs,flask,django,mongodb,mysql,sqlite,tailwind,git,github,vercel&perline=8" alt="Technology icons for my development stack" />
+
+</div>
+
+| Focus | Tools and concepts |
 |:--|:--|
-| **Languages** | Java, Python, C, JavaScript, SQL, HTML5, CSS3 |
-| **Frontend** | React, Tailwind CSS, Bootstrap, Streamlit |
-| **Backend** | Node.js, Django, Flask, REST APIs |
-| **Databases** | MySQL, MongoDB, MongoDB Atlas, SQLite |
-| **Tools** | Git, GitHub, Vercel, Cloudinary, NextAuth.js, OAuth 2.0 |
-| **AI / ML** | Machine Learning Fundamentals, Natural Language Processing (NLP) |
+| **Languages** | Java, Python, C, JavaScript, SQL |
+| **Frontend** | React, Next.js, Tailwind CSS, Bootstrap |
+| **Backend** | Node.js, Flask, Django, REST APIs |
+| **Data** | MongoDB, MySQL, SQLite, data processing |
+| **AI / ML** | NLP, spaCy, Random Forest, Bayesian inference |
+| **Tools** | Git, GitHub, Vercel, Cloudinary, OAuth 2.0 |
 
-## Experience
-
-### Web Development Intern · Zidio Development
-*June 2026 – July 2026*
-
-**Project LOOP**  
-<sub>Next.js · TypeScript · PostgreSQL · Google Gemini AI</sub>
-
-- Built a multi-tenant customer feedback platform with isolated workspaces and role-based access for Admin, Analyst, and Viewer roles.
-- Implemented feedback ingestion, search, pagination, and dashboards for customer feedback analysis and trend exploration.
-- Integrated Google Gemini AI for sentiment classification, theme clustering, trend detection, Voice-of-Customer reports, and evidence-grounded question answering over retrieved feedback.
-
-## Featured Projects
+## Selected Work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### [Yapster](https://github.com/Jibin-7/Yapster)
-**Real-Time Social Communication Platform**
+### [GeoOracle](https://github.com/Jibin-7/geo-oracle)
 
-<sub>Next.js · React · Node.js · MongoDB · Pusher · NextAuth.js · Tailwind CSS</sub>
+**Mumbai Air Quality Intelligence Explorer**
 
-- Built a mobile-first messaging progressive web application with real-time message delivery using Pusher.
-- Implemented Google OAuth authentication and Cloudinary-based media uploads and delivery.
+An interactive explorer for Mumbai environmental observations, bringing together CPCB measurements and ERA5 / GEOS-CF data.
+
+Python · Data Analysis · SQLite · Leaflet
+
+[Explore repository →](https://github.com/Jibin-7/geo-oracle)
 
 </td>
 <td width="50%" valign="top">
 
 ### [InternTrack](https://github.com/Jibin-7/InternTrack)
-**AI Placement Analytics Platform**
 
-<sub>React · Flask · MongoDB · spaCy · Random Forest · WebSockets · Adzuna API</sub>
+**Placement Analytics & Career Guidance**
 
-- Combined resume parsing, skill extraction, personalized career guidance, and job listings through the Adzuna API.
-- Integrated Random Forest-based placement estimates and real-time dashboard updates using WebSockets.
+Combines resume parsing, skill extraction, job discovery, personalized guidance, and Random Forest placement estimates.
+
+React · Flask · MongoDB · spaCy · WebSockets
+
+[Explore repository →](https://github.com/Jibin-7/InternTrack)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### [IntelliBudget](https://github.com/Jibin-7/IntelliBudget)
-**AI-Powered Budget Planner**
+### [Yapster](https://github.com/Jibin-7/Yapster)
 
-<sub>React · Flask · MongoDB · Bayesian Inference · JWT</sub>
+**Real-Time Social Communication**
 
-- Developed a personal finance application for expense tracking, budget management, and savings planning.
-- Applied Bayesian inference to forecast savings and identify potential overspending risks.
+A mobile-first messaging PWA with real-time delivery, Google authentication, and media uploads.
+
+Next.js · Node.js · MongoDB · Pusher
+
+[Live demo](https://yapster-eta.vercel.app) · [Repository](https://github.com/Jibin-7/Yapster)
 
 </td>
 <td width="50%" valign="top">
 
-### Mumbai Multi Source Geospatial Air Quality Dataset
+### [IntelliBudget](https://github.com/Jibin-7/IntelliBudget)
 
-<sub>Co-author · Kaggle Dataset · 2026</sub>
+**Personal Finance & Savings Planner**
 
-Hourly air quality and environmental data for Mumbai from 2023 to 2025, comprising **657,600 records**, **25 station IDs**, and **59 features**.
+Expense tracking, budget management, savings planning, and Bayesian-inference-based forecasting.
 
-[View dataset](https://www.kaggle.com/datasets/jibin07/mumbai-multi-source-geospatial-air-quality-dataset) · [DOI](https://doi.org/10.34740/KAGGLE/DSV/20263979)
+React · Flask · MongoDB · Bayesian Inference
+
+[Explore repository →](https://github.com/Jibin-7/IntelliBudget)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Portfolio](https://github.com/Jibin-7/Portfolio)
+
+**Personal Developer Portfolio**
+
+A responsive portfolio presenting my projects, technical background, achievements, and professional links.
+
+[View live portfolio →](https://jibin7-portfolio.vercel.app/)
+
+</td>
+<td width="50%" valign="top">
+
+### [Mumbai Air Quality Dataset](https://www.kaggle.com/datasets/jibin07/mumbai-multi-source-geospatial-air-quality-dataset)
+
+**Multi-Source Geospatial Environmental Data**
+
+A dataset combining air-quality and environmental data for Mumbai across 2023–2025, with 657,600 records, 25 station IDs, and 59 features.
+
+[Open on Kaggle](https://www.kaggle.com/datasets/jibin07/mumbai-multi-source-geospatial-air-quality-dataset) · [DOI](https://doi.org/10.34740/KAGGLE/DSV/20263979)
 
 </td>
 </tr>
 </table>
 
-## Achievements
+## Experience
 
-- **Smart India Hackathon 2024 Grand Finalist:** Built 3Dify, which transforms 2D building blueprints into interactive 3D environments for spatial assessment and tactical planning.
-- **National Service Scheme Volunteer and Group Leader:** Completed two years of service, participated in two camps, and led group activities during the second camp.
+**Web Development Intern · Zidio Development**  
+*June 2026 – July 2026*
+
+**Project LOOP** · Next.js, TypeScript, PostgreSQL, Google Gemini AI
+
+- Built a multi-tenant customer feedback platform with isolated workspaces and Admin, Analyst, and Viewer roles.
+- Developed feedback ingestion, search, pagination, and dashboards for exploring customer sentiment and trends.
+- Integrated Gemini AI for sentiment classification, theme clustering, trend detection, Voice-of-Customer reports, and evidence-grounded Q&A over retrieved feedback.
+
+## Highlights
+
+- **Smart India Hackathon 2024 Grand Finalist** · Contributed to 3Dify, a solution for transforming 2D building blueprints into interactive 3D environments.
+- **NSS Volunteer and Group Leader** · Two years of service, including two camps and leadership of group activities.
 
 ## Education
 
-**B.E. in Computer Engineering, Honours in Data Science**  
-St. Francis Institute of Technology (SFIT), University of Mumbai  
-2023 – 2027 · **CGPA: 9.24 / 10.0**
+**B.E. Computer Engineering, Honours in Data Science**  
+St. Francis Institute of Technology · University of Mumbai  
+2023–2027 · **CGPA 9.24 / 10.0**
 
 ## Certifications
 
-- Claude 101, Anthropic
-- PromptWars Virtual, Google for Developers
-- Azure Custom Vision: Machine Learning Model, Microsoft Learn Student Ambassador
-- Generative AI Model Development, NxtWave
-
-## GitHub at a Glance
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Jibin-7&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&rank_icon=github" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jibin-7&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Most-used programming languages" />
-</div>
+Claude 101 · Anthropic &nbsp; | &nbsp; PromptWars Virtual · Google for Developers  
+Azure Custom Vision · Microsoft Learn Student Ambassador &nbsp; | &nbsp; Generative AI Model Development · NxtWave
 
 ---
 
 <div align="center">
-  <sub>Computer Engineering · Data Science · Software Development</sub>
-  <br /><br />
-  <a href="https://linkedin.com/in/jibin-saju-joseph">LinkedIn</a>
-  &nbsp; · &nbsp;
-  <a href="mailto:jibinsjv@gmail.com">Email</a>
-  &nbsp; · &nbsp;
-  <a href="https://github.com/Jibin-7?tab=repositories">Repositories</a>
+
+### Let's connect
+
+<a href="https://jibin7-portfolio.vercel.app/">Portfolio</a> ·
+<a href="https://linkedin.com/in/jibin-saju-joseph">LinkedIn</a> ·
+<a href="mailto:jibinsjv@gmail.com">Email</a>
+
+<sub>Building across software engineering, AI, and data.</sub>
+
 </div>
